@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Card view style -->
+    <style name="CardTextLayoutStyle">
+        <item name="android:layout_marginBottom">@dimen/margin_vertical_8dp</item>
+        <item name="android:layout_marginStart">@dimen/margin_horizontal_8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+    <!--Subheading style -->
+    <style name="SubheadingStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginTop">@dimen/margin_vertical_16dp</item>
+        <item name="android:layout_marginBottom">@dimen/margin_vertical_8dp</item>
+        <item name="android:layout_marginStart">@dimen/margin_horizontal_16dp</item>
+        <item name="android:layout_marginEnd">@dimen/margin_horizontal_8dp</item>
+        <item name="android:textColor">@color/textColorSecondaryDark</item>
+    </style>
+
+    <!--Content paragraph style -->
+    <style name="ContentParagraphStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginBottom">@dimen/margin_vertical_16dp</item>
+        <item name="android:layout_marginStart">@dimen/margin_horizontal_16dp</item>
+        <item name="android:layout_marginEnd">@dimen/margin_horizontal_16dp</item>
+        <item name="android:lineSpacingExtra">@dimen/line_space_height</item>
+    </style>
+
+    <!-- Information layout style -->
+    <style name="InfoLayoutStyle">
+        <item name="android:layout_marginTop">@dimen/margin_vertical_8dp</item>
+        <item name="android:layout_marginBottom">@dimen/margin_vertical_8dp</item>
+        <item name="android:layout_marginStart">@dimen/margin_horizontal_16dp</item>
+        <item name="android:layout_marginEnd">@dimen/margin_horizontal_16dp</item>
+        <item name="android:minHeight">40dp</item>
+    </style>
+
+    <!--Information icon style -->
+    <style name="InfoIconStyle">
+        <item name="android:paddingStart">@dimen/margin_horizontal_16dp</item>
+        <item name="android:paddingEnd">@dimen/margin_horizontal_16dp</item>
+        <item name="android:tint">@color/textColorSecondary</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <!--Information text style -->
+    <style name="InfoTextStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginStart">@dimen/margin_horizontal_16dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:lineSpacingExtra">@dimen/line_space_height</item>
+    </style>
+</resources>

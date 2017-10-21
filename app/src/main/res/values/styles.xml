@@ -1,0 +1,133 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="actionBarStyle">@style/TourAppBarStyle</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <!-- App bar style -->
+    <style name="TourAppBarStyle" parent="Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <!--Remove the shadow below the app bar -->
+        <item name="elevation">@dimen/empty_height</item>
+    </style>
+
+    <style name="CategoryTab" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@color/textColorSecondary</item>
+        <item name="tabSelectedTextColor">@color/textColorSecondary</item>
+        <item name="tabTextAppearance">@style/CategoryTabTextAppearance</item>
+    </style>
+
+    <!-- Text appearance style for a category tab -->
+    <style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="DetailActivityTheme" parent="Theme.Design.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <!-- Card view style -->
+    <style name="CardTextLayoutStyle">
+        <item name="android:layout_marginBottom">@dimen/margin_vertical_8dp</item>
+        <item name="android:layout_marginLeft">@dimen/margin_horizontal_8dp</item>
+        <item name="android:layout_marginTop">@dimen/margin_vertical_8dp</item>
+    </style>
+
+    <!-- Textview style in card list -->
+    <style name="TextCardStyle">
+        <item name="android:gravity">bottom</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <!--Type textview style in card list -->
+    <style name="TextCardStyle.TypeStyle">
+        <item name="android:textColor">@color/textColorSecondary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Name textview style in card list -->
+    <style name="NameTextCardStyle">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@color/textColorSecondaryDark</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <!-- Detail name overlay image style -->
+    <style name="DetailNameOverlayStyle">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingTop">@dimen/margin_vertical_8dp</item>
+        <item name="android:paddingBottom">@dimen/margin_vertical_8dp</item>
+        <item name="android:background">@android:color/black</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:alpha">0.8</item>
+    </style>
+
+    <!-- Detail name text style -->
+    <style name="DetailNameTextStyle">
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <!-- Detail type text style -->
+    <style name="DetailTypeTextStyle">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!--Subheading style -->
+    <style name="SubheadingStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginTop">@dimen/margin_vertical_16dp</item>
+        <item name="android:layout_marginBottom">@dimen/margin_vertical_8dp</item>
+        <item name="android:layout_marginLeft">@dimen/margin_horizontal_8dp</item>
+        <item name="android:layout_marginRight">@dimen/margin_horizontal_8dp</item>
+        <item name="android:textColor">@color/textColorSecondaryDark</item>
+    </style>
+
+    <!--Content paragraph style -->
+    <style name="ContentParagraphStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginBottom">@dimen/margin_vertical_16dp</item>
+        <item name="android:layout_marginLeft">@dimen/margin_horizontal_16dp</item>
+        <item name="android:layout_marginRight">@dimen/margin_horizontal_16dp</item>
+        <item name="android:lineSpacingExtra">@dimen/line_space_height</item>
+    </style>
+
+    <!-- Information layout style -->
+    <style name="InfoLayoutStyle">
+        <item name="android:layout_marginTop">@dimen/margin_vertical_8dp</item>
+        <item name="android:layout_marginBottom">@dimen/margin_vertical_8dp</item>
+        <item name="android:layout_marginLeft">@dimen/margin_horizontal_16dp</item>
+        <item name="android:layout_marginRight">@dimen/margin_horizontal_16dp</item>
+        <item name="android:minHeight">40dp</item>
+    </style>
+
+    <!--Information icon style -->
+    <style name="InfoIconStyle">
+        <item name="android:paddingLeft">@dimen/margin_horizontal_16dp</item>
+        <item name="android:paddingRight">@dimen/margin_horizontal_16dp</item>
+        <item name="android:tint">@color/textColorSecondary</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <!--Information text style -->
+    <style name="InfoTextStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">@dimen/margin_horizontal_16dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:lineSpacingExtra">@dimen/line_space_height</item>
+    </style>
+</resources>

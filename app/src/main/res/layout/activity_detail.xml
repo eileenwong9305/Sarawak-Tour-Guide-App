@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="24dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/photo_detail_image"
+                android:layout_width="match_parent"
+                android:layout_height="280dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:contentDescription="@string/image_of_the_place"
+                android:scaleType="centerCrop"
+                android:src="@drawable/bako_national_park" />
+
+            <LinearLayout
+                style="@style/DetailNameOverlayStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/name_detail_text"
+                    style="@style/DetailNameTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="@string/attraction_name_1" />
+
+                <TextView
+                    android:id="@+id/type_detail_text"
+                    style="@style/DetailTypeTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:text="@string/attraction_type_1" />
+
+            </LinearLayout>
+        </RelativeLayout>
+
+        <TextView
+            style="@style/SubheadingStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/description" />
+
+        <TextView
+            android:id="@+id/desc_detail_text"
+            style="@style/ContentParagraphStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="@string/attraction_description_1" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray" />
+
+        <TextView
+            style="@style/SubheadingStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/attraction_information" />
+
+        <LinearLayout
+            android:id="@+id/address_layout"
+            style="@style/InfoLayoutStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                style="@style/InfoIconStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_map_white_24dp" />
+
+            <TextView
+                android:id="@+id/address_detail_text"
+                style="@style/InfoTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorSecondary"
+                tools:text="@string/attraction_address_1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/url_layout"
+            style="@style/InfoLayoutStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                style="@style/InfoIconStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_web_white_24dp" />
+
+            <TextView
+                android:id="@+id/url_detail_text"
+                style="@style/InfoTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorSecondary"
+                tools:text="@string/attraction_url_1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/phone_layout"
+            style="@style/InfoLayoutStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                style="@style/InfoIconStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_local_phone_white_24dp" />
+
+            <TextView
+                android:id="@+id/phone_detail_text"
+                style="@style/InfoTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textColorSecondary"
+                tools:text="@string/attraction_phone_1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/opening_hour_layout"
+            style="@style/InfoLayoutStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                style="@style/InfoIconStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_access_time_white_24dp"
+                android:tint="@android:color/darker_gray" />
+
+            <TextView
+                android:id="@+id/opening_hour_text_view"
+                style="@style/InfoTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="@string/attraction_hour_1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/fee_layout"
+            style="@style/InfoLayoutStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                style="@style/InfoIconStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_payment_white_24dp"
+                android:tint="@android:color/darker_gray" />
+
+            <TextView
+                android:id="@+id/fee_text_view"
+                style="@style/InfoTextStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="@string/attraction_fee_1" />
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

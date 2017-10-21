@@ -1,0 +1,273 @@
+<resources>
+    <string name="app_name">Sarawak Tour Guide</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Dining</string>
+    <string name="attractions">Sights</string>
+    <string name="events">Events</string>
+    <string name="description">Description</string>
+    <string name="attraction_information">Attraction Information</string>
+    <string name="scenery_in_sarawak">Scenery in Sarawak</string>
+    <string name="image_of_the_place">image of the place</string>
+
+    <!-- ATTRACTION -->
+    <!-- Attraction name -->
+    <string name="attraction_name_1">Bako National Park</string>
+    <string name="attraction_name_2">Sarawak Cultural Village</string>
+    <string name="attraction_name_3">Gunung Mulu National Park</string>
+    <string name="attraction_name_4">Semenggoh Nature Reserve</string>
+    <string name="attraction_name_5">Kuching Esplanade</string>
+    <string name="attraction_name_6">The Brooke Gallery</string>
+
+    <!-- Attraction address -->
+    <string name="attraction_address_1">Muara Tebas Peninsular\n93000, Kuching</string>
+    <string name="attraction_address_2">Pantai Damai, Santubong\n93752 Kuching</string>
+    <string name="attraction_address_3">Gunung Mulu National Park\nMiri</string>
+    <string name="attraction_address_4">Jalan Tun Abang Haji Openg\n93000 Kuching</string>
+    <string name="attraction_address_5">Jalan Main\nKuching 93000</string>
+    <string name="attraction_address_6">Petra Jaya\n93050 Kuching</string>
+
+    <!-- Attraction opening hour -->
+    <string name="attraction_hour_1">8:00 AM - 5:00 PM</string>
+    <string name="attraction_hour_2">9:00 AM - 5:00 PM</string>
+    <string name="attraction_hour_3">8:00 AM - 5:00 PM</string>
+    <string name="attraction_hour_4">8:00 AM - 5:00 PM</string>
+    <string name="attraction_hour_5">All day</string>
+    <string name="attraction_hour_6">9:00 AM - 4:45 PM</string>
+
+    <!-- Attraction website url -->
+    <string name="attraction_url_1">https://sarawakforestry.com/parks-and-reserves/bako-national-park/</string>
+    <string name="attraction_url_2">https://www.scv.com.my/</string>
+    <string name="attraction_url_3">https://mulupark.com/</string>
+    <string name="attraction_url_4">https://sarawakforestry.com/parks-and-reserves/semenggoh-nature-reserve/</string>
+    <string name="attraction_url_5">https://kuchingwaterfront.com/</string>
+    <string name="attraction_url_6">https://www.brookegallery.org/</string>
+
+    <!-- Attraction phone -->
+    <string name="attraction_phone_1">+6082610088</string>
+    <string name="attraction_phone_2">+6082846108</string>
+    <string name="attraction_phone_3">+6085792300</string>
+    <string name="attraction_phone_4">+6082618325</string>
+    <string name="attraction_phone_5">-</string>
+    <string name="attraction_phone_6">+60163101880</string>
+
+    <!-- Attraction type -->
+    <string name="attraction_type_1">Nature and Park</string>
+    <string name="attraction_type_2">Sights and Landmarks</string>
+    <string name="attraction_type_3">Nature and Park</string>
+    <string name="attraction_type_4">Nature and Park</string>
+    <string name="attraction_type_5">Sights and Landmarks</string>
+    <string name="attraction_type_6">Historical Site</string>
+
+    <!-- Attraction description -->
+    <string name="attraction_description_1">A National Park since 1957, Bako offers the perfect introduction to Sarawak’s forests and wildlife.  The park covers the northern tip of the Muara Tebas peninsula, an area of 27 sq km. Bako is also home to approximately 275 rare proboscis monkeys, found only in Borneo. Bako’s plant life is both beautiful, and readily accessible.  All the trails have a great variety of vegetation, from mighty 80-metre dipterocarps to dense mangrove forest.  Carnivorous pitcher plants are found on the Lintang trail. Bako also has some good white sand beaches that provide perfect resting spots in between jungle treks.  Telok Pandan Kecil is perhaps Bako’s best beach. </string>
+    <string name="attraction_description_2">Possibly the finest "Living Museum" in South East Asia, Sarawak Cultural Village combines history, tradition, lifestyle and architecture with a dash of education and portion of theatre to create a unique multi-cultural extravaganza. Seven unique traditional houses, spread over a beautiful 17-acre site, gives you the perfect introduction to Sarawak, its people and cultures, whether you are looking for insight into longhouse lifestyle or a taste of exuberant Sarawak hospitality, Sarawak Cultural Village is a must visit for visitors to Kuching and Damai.</string>
+    <string name="attraction_description_3">Gunung Mulu National Park is a protected rainforest in Malaysian Borneo. It’s known for its dramatic peaks and caves, including the huge, bat-filled Deer Cave. The cave leads to the Garden of Eden, a hidden valley and waterfall enclosed by limestone cliffs. The Pinnacles at Gunung Api are tall, jagged limestone formations with steep trails and rare orchids. The summit of Gunung Mulu Mountain has views over the park.</string>
+    <string name="attraction_description_4">For over 20 years, the wardens here trained young orangutans, who had been orphaned or rescued from captivity, how to survive in the wild. The success of this programme has left the surrounding forest reserve with a thriving population of healthy adolescent and young adult orang utans, who are now breeding in the wild. The programme has been transferred to Matang Wildlife Centre, but Semenggoh is still home to its successful graduates, semi-wild orang utans and their babies. They spend most of their time roaming the forest but frequently come back to the Centre for a free meal. If it is the fruiting season in the forest, some or even all of them may not come to feed. This in itself is a good sign and another step on the way to full rehabilitation.</string>
+    <string name="attraction_description_5">Kuching Waterfront, which lines the south bank of Sarawak River, is THE place to sample the city’s cosmopolitan vibes. During the daytime, it offers scenic views of the Astana, Fort Margherita and the Malay kampungs across the river; but night-time is when it really comes alive! It seems like half of the city is out meeting friends, watching a show, or just shooting the breeze. For something different, why not try jetty-hopping along the river on the local Penambang boats, and savour the different sights, sounds (and delicacies!) between the two riverbanks.</string>
+    <string name="attraction_description_6">The Brooke Gallery tells the story of one of the most remarkable kingdoms in history: Sarawak and its ‘White Rajahs’. In the 1830s Sarawak, a province of the once-mighty Sultanate of Brunei in north-west Borneo, was ravaged by piratical raiding and rebellion against Brunei rule. Inspired by stories of its natural wonders and diverse indigenous cultures, a bold English adventurer, James Brooke, arrived on its shores in his yacht, Royalist, in August 1839. He was to forge a unique bond with its peoples and together they built the foundations of today’s Sarawak. </string>
+
+    <!-- Attraction short description -->
+    <string name="attraction_short_desc_1">Protected coastal area with pristine beaches, cliffs and unusual rock formations.</string>
+    <string name="attraction_short_desc_2">17-acre site exploring local ethnic groups via longhouse replicas, programs and cultural performances.</string>
+    <string name="attraction_short_desc_3">Protected expanse of mountainous rainforest known for huge limestone caves and rock pinnacles.</string>
+    <string name="attraction_short_desc_4">Nature reserve and primate rehabilitation center sheltering orangutans and many bird species.</string>
+    <string name="attraction_short_desc_5">Bustling marketplace featuring traditional crafts, coffee shops and historical Chinese buildings</string>
+    <string name="attraction_short_desc_6">Gallery in an 1800s English-style fort, with educational exhibits on Sarawak and its "White Rajahs."</string>
+
+    <!-- Attraction entrance fee -->
+    <string name="attraction_fee_1">Adult : RM20\nChild : RM7</string>
+    <string name="attraction_fee_2">Adult : RM50\nChild : RM25</string>
+    <string name="attraction_fee_3">Adult :	RM30\nChild	: RM10 (7 – 18 years)\n6 and below :  free</string>
+    <string name="attraction_fee_4">Adult : RM10\nChild : RM5</string>
+    <string name="attraction_fee_5">Free</string>
+    <string name="attraction_fee_6">RM20</string>
+
+
+    <!-- RESTAURANT -->
+    <!-- Restaurant name -->
+    <string name="restaurant_name_1">The Dyak</string>
+    <string name="restaurant_name_2">Jambu Restaurant and Lounge</string>
+    <string name="restaurant_name_3">Top Spot Food Court</string>
+    <string name="restaurant_name_4">Balkanico Pizza</string>
+    <string name="restaurant_name_5">Chong Choon Cafe</string>
+    <string name="restaurant_name_6">My Little Kitchen</string>
+
+    <!-- Restaurant address -->
+    <string name="restaurant_address_1">Sublot 29, Panovel Commercial Complex\nJalan Simpang Tiga\nKampung Kenyalang Park\n 93300 Kuching</string>
+    <string name="restaurant_address_2">No. 32, Jalan Crookshank\n93100 Kuching</string>
+    <string name="restaurant_address_3">Jalan Padungan\n93100 Kuching</string>
+    <string name="restaurant_address_4">Abell road\n93100 Kuching</string>
+    <string name="restaurant_address_5">Abell road\n93100 Kuching</string>
+    <string name="restaurant_address_6">38, Jalan Padungan\n93100 Kuching</string>
+
+    <!-- Restaurant opening hour -->
+    <string name="restaurant_hour_1">12:00 PM - 8:30 PM\n(Mon - Sat)</string>
+    <string name="restaurant_hour_2">6:00 PM - 11:00 PM\n(Tue - Sun)</string>
+    <string name="restaurant_hour_3">5:00 PM - 11:00 PM</string>
+    <string name="restaurant_hour_4">4:00 PM - 10:00 PM</string>
+    <string name="restaurant_hour_5">6:30 AM - 11:45 PM</string>
+    <string name="restaurant_hour_6">12:00 PM - 10:30 PM</string>
+
+    <!-- Restaurant website url -->
+    <string name="restaurant_url_1">https://www.facebook.com/the.Dyak</string>
+    <string name="restaurant_url_2">https://www.facebook.com/pages/Jambu-Restaurant-Lounge/230924696971786</string>
+    <string name="restaurant_url_3">-</string>
+    <string name="restaurant_url_4">https://www.facebook.com/Balkanico/</string>
+    <string name="restaurant_url_5">https://www.facebook.com/Chong-Choon-Cafe-84608810186/</string>
+    <string name="restaurant_url_6">https://www.facebook.com/MyLittleKitchen56/</string>
+
+    <!-- Restaurant phone -->
+    <string name="restaurant_phone_1">+6082234068</string>
+    <string name="restaurant_phone_2">+6082235292</string>
+    <string name="restaurant_phone_3">+60128099522</string>
+    <string name="restaurant_phone_4">+60168612855</string>
+    <string name="restaurant_phone_5">+60128571811</string>
+    <string name="restaurant_phone_6">+60168586669</string>
+
+    <!-- Restaurant type -->
+    <string name="restaurant_type_1">Dayak cuisine</string>
+    <string name="restaurant_type_2">Gastropub, Bar, European</string>
+    <string name="restaurant_type_3">Chinese, Seafood, Asian</string>
+    <string name="restaurant_type_4">Pizza, Vegetarian Friendly</string>
+    <string name="restaurant_type_5">Chinese, Cafe, Asian</string>
+    <string name="restaurant_type_6">European, Swedish, Scandinavian</string>
+
+    <!-- Restaurant description -->
+    <string name="restaurant_description_1">The first venue in Borneo to take classic Dayak recipes, commonly seen as home-cooking or street food, and turn them into restaurant cuisine. Set in a beautiful, artifact-lined dining room, it offers one of the most complete culinary experiences in Kuching. Each dish can be sourced back to a local ethnic tradition.</string>
+    <string name="restaurant_description_2">Several upscale restaurants in Kuching practice a fusion cuisine, cooking locally sourced ingredients with western techniques, but none do it as successfully as Jambu. Its building, a grandiose mansion, all tall ceilings and elegant low-lit lighting, was once the go-to place for glamorous colonial get-togethers.</string>
+    <string name="restaurant_description_3">Top Spot, as its name implies, is located at the top of a massive multi-level carpark by Kuching’s riverfront. Styled after a food court, individual restaurants take up stalls located side-by-side, displaying their raw seafood in see-through boxes packed with ice. Grilled white pomfret is a particular delicacy. Ling Loong Seafood and the Bukit Mata Seafood Centre are especially good.</string>
+    <string name="restaurant_description_4">Balkanico Pizza is a stall at Big Bottle, in the centre of Kuching. You can enjoy our pizzas while having a beer in the afternoon or evening. We are open from 1700hrs - 2200hrs. We sell non pork pizzas, and we also cater for vegetarians.</string>
+    <string name="restaurant_description_5">Chong Choon Cafe offers many local delicacies such as laksa, kolo mee, mee jawa, mee goreng, char kueh, toast and also a selection of traditional kuih. Many would come to Chong Choon Cafe specially for their laksa and teh c peng special. Here you could also order them in extra large sizes.</string>
+    <string name="restaurant_description_6">Small family owned kitchen putting quality and taste high on the agenda. Serving home cooked style Scandinavian food inspired by our grandma’s recipes.</string>
+
+    <!-- Restaurant price -->
+    <string name="restaurant_price_1">$$ - $$$</string>
+    <string name="restaurant_price_2">$$ - $$$</string>
+    <string name="restaurant_price_3">$-$$</string>
+    <string name="restaurant_price_4">$</string>
+    <string name="restaurant_price_5">$</string>
+    <string name="restaurant_price_6">$$ - $$$</string>
+
+    <!-- Event -->
+    <!-- Hotel name -->
+    <string name="hotel_name_1">Pullman Kuching</string>
+    <string name="hotel_name_2">Grand Margherita Hotel</string>
+    <string name="hotel_name_3">Imperial Riverbank Hotel Kuching</string>
+    <string name="hotel_name_4">Merdeka Palace Hotel and Suites</string>
+    <string name="hotel_name_5">Hilton Kuching Hotel</string>
+    <string name="hotel_name_6">Check In Lodge Kuching</string>
+
+    <!-- Hotel address -->
+    <string name="hotel_address_1">No 1A Jalan Mathies\n93100 Kuching</string>
+    <string name="hotel_address_2">Jalan Tunku Abdul Rahman\n93100 Kuching</string>
+    <string name="hotel_address_3">Jalan Tunku Abdul Rahman\n93100 Kuching</string>
+    <string name="hotel_address_4">Jalan Tun Abang Hj Openg\nTaman Budaya\n93000 Kuching</string>
+    <string name="hotel_address_5">Jalan Tunku Abdul Rahman\n93100 Kuching, Malaysia</string>
+    <string name="hotel_address_6">177, Jalan Padungan\n93100 Kuching</string>
+
+    <!-- Hotel check_in -->
+    <string name="hotel_hour_1">Check-in: From 3:00 PM\nCheck-out: 12:00 PM</string>
+    <string name="hotel_hour_2">Check-in: From 2:00 PM\nCheck-out: 12:00 PM</string>
+    <string name="hotel_hour_3">Check-in: From 2:00 PM\nCheck-out: 12:00 PM</string>
+    <string name="hotel_hour_4">Check-in: From 2:00 PM\nCheck-out: 12:00 PM</string>
+    <string name="hotel_hour_5">Check-in: From 3:00 PM\nCheck-out: 12:00 PM</string>
+    <string name="hotel_hour_6">Check-in: From 2:00 PM\nCheck-out: 12:00 PM</string>
+
+    <!-- Hotel website url -->
+    <string name="hotel_url_1">http://www.pullmankuching.com/</string>
+    <string name="hotel_url_2">http://www.grandmargherita.com/</string>
+    <string name="hotel_url_3">http://www.imperial.com.my/imperial-riverbank/</string>
+    <string name="hotel_url_4">http://www.merdekapalace.com/</string>
+    <string name="hotel_url_5">http://www3.hilton.com/en/hotels/malaysia/hilton-kuching-KUCHITW/index.html</string>
+    <string name="hotel_url_6">https://www.facebook.com/checkinlodge/</string>
+
+    <!-- Hotel phone -->
+    <string name="hotel_phone_1">+6082222888</string>
+    <string name="hotel_phone_2">+6082532111</string>
+    <string name="hotel_phone_3">+6082230033</string>
+    <string name="hotel_phone_4">+6082258000</string>
+    <string name="hotel_phone_5">+6082223888</string>
+    <string name="hotel_phone_6">+60122643082</string>
+
+    <!-- Hotel type -->
+    <string name="hotel_type_1">5-star hotel</string>
+    <string name="hotel_type_2">4-star hotel</string>
+    <string name="hotel_type_3">3-star hotel</string>
+    <string name="hotel_type_4">4-star hotel</string>
+    <string name="hotel_type_5">5-star hotel</string>
+    <string name="hotel_type_6">hostel</string>
+
+    <!-- Hotel description -->
+    <string name="hotel_description_1">On top of Hills Shopping Mall in Jalan Mathies, Pullman Kuching offers accommodations in Kuching’s Golden Triangle. The hotel features 5 food and beverage options, an outdoor pool, and a spa. The Pullman Hotel is within walking distance of the Kuching Waterfront. It is 11.3 km from Kuching International Airport. Pullman Kuching’s rooms feature floor-to-ceiling windows with panoramic city views. Amenities include a safe and a flat-screen TV with cable channels. Private bathrooms have a bathtub and separate rain shower.</string>
+    <string name="hotel_description_2">Offering riverfront accommodations in central Kuching, Grand Margherita is beside Sarawak Plaza Shopping Complex. featuring an outdoor pool and 4 dining options, it also offers a spa. Free Wi-Fi and free wired internet are provided in all rooms. Grand Margherita Hotel is a 2 minute walk from the Kuching Waterfront and a 5 minute boat ride from Fort Margherita. Kuching International Airport is a 20 minute drive away. The modern rooms at Grand Margherita come equipped with air conditioning and a satellite TV. </string>
+    <string name="hotel_description_3">Featuring free WiFi and a restaurant, Imperial Riverbank Hotel Kuching offers accommodations in Kuching. Every room at this hotel is air conditioned and is fitted with a flat-screen TV. You will find a kettle in the room. Every room is equipped with a private bathroom fitted with a shower. For your comfort, you will find bathrobes and slippers. There is a 24-hour front desk at the property. The nearest airport is Kuching Airport, 8 km from the property.</string>
+    <string name="hotel_description_4">Showcasing an outdoor pool and views of the city, Merdeka Palace Hotel and Suites is located in Kuching. The hotel has a barbecue, playground and terrace, and guests can enjoy a drink at the bar. Free private parking is available on site. Some units have a sitting area where you can relax. Each room is fitted with a private bathroom. Extras include slippers, free toiletries and a hairdryer. A flat-screen TV with satellite channels is available. </string>
+    <string name="hotel_description_5">Located on the banks of Sarawak River, Hilton Kuching Hotel offers guests a convenient location, warm service, scenic views and good-sized guestrooms at reasonable prices. Hilton Kuching Hotel enjoys a great location close to Kuching’s historic and new districts. Nearby are convenient public transportation. Guests can also enjoy easy access to attractions, such as the Semenggoh Wildlife Park and Sarawak Cultural Village. </string>
+    <string name="hotel_description_6">Showcasing a barbecue and views of the city, Check In Lodge is located in Kuching. There is a shared kitchen at the property. The hostel also provides car rental. Kuching Airport is 8 km away. This is our guests favorite part of Kuching, according to independent reviews. This property also has one of the top-rated locations in Kuching! Guests are happier about it compared to other properties in the area.</string>
+
+    <!-- Hotel price -->
+    <string name="hotel_price_1">MYR 314</string>
+    <string name="hotel_price_2">RM 158</string>
+    <string name="hotel_price_3">RM 112</string>
+    <string name="hotel_price_4">RM 142</string>
+    <string name="hotel_price_5">RM 248</string>
+    <string name="hotel_price_6">RM 69</string>
+
+    <!-- Event -->
+    <!-- Event name -->
+    <string name="event_name_1">Tidal Bore Festival (Pesta Benak) 2017</string>
+    <string name="event_name_2">Rainforest World Puppet Carnival 2017</string>
+    <string name="event_name_3">Sarawak International Dragon Boat Regatta 2017</string>
+    <string name="event_name_4">Sarawak Regatta 2017</string>
+    <string name="event_name_5">Sibu Year End Countdown 2018</string>
+    <string name="event_name_6">World Harvest Festival 2018</string>
+
+    <!-- Event location -->
+    <string name="event_location_1">Batang Lupar Riverfront\nSri Aman, Sarawak</string>
+    <string name="event_location_2">Tourism Complex Sarawak\nKuching, Sarawak</string>
+    <string name="event_location_3">Kuching Waterfront\nKuching, Sarawak</string>
+    <string name="event_location_4">Kuching Waterfront\nKuching, Sarawak</string>
+    <string name="event_location_5">Sibu Town Square\nSibu, Sarawak</string>
+    <string name="event_location_6">Sarawak Cultural Village\nKuching, Sarawak Malaysia</string>
+
+    <!-- Event date -->
+    <string name="event_date_1">3 – 5 November 2017</string>
+    <string name="event_date_2">4 – 11 November 2017</string>
+    <string name="event_date_3">10 – 12 November 2017</string>
+    <string name="event_date_4">17 – 19 November 2017</string>
+    <string name="event_date_5">31 December 2017</string>
+    <string name="event_date_6">27 – 29 April 2018</string>
+
+    <!-- Event website url -->
+    <string name="event_url_1">https://www.facebook.com/Benak-Sri-Aman-600143083376961/timeline</string>
+    <string name="event_url_2">https://www.facebook.com/WorldPuppetCarnival/</string>
+    <string name="event_url_3">http://sarawakdragonboatregatta.weebly.com/</string>
+    <string name="event_url_4">https://sarawaktourism.com/event/sarawak-regatta/</string>
+    <string name="event_url_5">https://sarawaktourism.com/event/closingvsy2017/</string>
+    <string name="event_url_6">https://www.facebook.com/World-Harvest-Festival-185353224907021/</string>
+
+    <!-- Event phone -->
+    <string name="event_phone_1">+6083323366</string>
+    <string name="event_phone_2">+6082532111</string>
+    <string name="event_phone_3">+60123468727</string>
+    <string name="event_phone_4">+6082507051</string>
+    <string name="event_phone_5">+6084333411</string>
+    <string name="event_phone_6">+6082846108</string>
+
+    <!-- Event type -->
+    <string name="event_type_1">Festival</string>
+    <string name="event_type_2">Carnival</string>
+    <string name="event_type_3">Sporting Event</string>
+    <string name="event_type_4">Sporting Event</string>
+    <string name="event_type_5">Festival</string>
+    <string name="event_type_6">Festival</string>
+
+    <!-- Event description -->
+    <string name="event_description_1">Pesta Benak is one of Sarawak’s iconic events and celebrated on a grand scale.  Centred in Sri Aman, there will be longboat paddling competitions; tidal bore surfing, water sports, food and trade fair, nightly entertainment and viewing of the tidal bore.</string>
+    <string name="event_description_2">“WHERE THE OCEAN KISSES THE JUNGLE”\nWorld Puppet Carnival with the Ministry of Culture and Tourism of Malaysia and the state of Sarawak invite you to participate in the spectacular “Rainforest World Puppet Carnival” in Sarawak, Borneo from 4 to 11 November 2017.  The best Puppet productions (theatre, video and film) from all over the world will be selected to perform on the exotic and amazing island of Borneo. Rainforest Carnival showcases Borneo’s diversity of ethnic races, cultures and puppets together with an amazing mix of attractions. You will see the most beautiful Wilderness, Rainforest, Beaches and unspoiled Nature in the World. Your experience will fill you with glorious memories to follow you throughout your lifetime.</string>
+    <string name="event_description_3">Sarawak International Dragon Boat Regatta continues to be an important event in the tourism calendar of countries involved in dragon boat races around the world.  The event in Sarawak attracts huge global participation and promotes local tourism, thereby increase tourist arrivals and receipts. Apart from the Dragon Boat races and the Sarawak Regatta races, local food and handicraft exhibitions will also be held.</string>
+    <string name="event_description_4">This annual event is the showcase of boat race with participation from various government agencies, private sectors and also participants from the neighbouring countries of Indonesia and Brunei. Teams from villages around Sarawak make it a grand affair and also a great occasion for families from outside Kuching to visit the city. The blue-ribbon event is the coveted ‘Raja Sungai’ (king of the river) title in the ‘bidar’ category.  Each longboat carries thirty paddlers and this category is always a closely fought affair.</string>
+    <string name="event_description_5">Year End Countdown is one of the yearly events which organized by Sibu Municipal Council to celebrate a New Year. It’s symbolizes the end of a successful year. The activities featuring a variety of entertaining performances comprising with a blend of both oldies and modern performances were belted out by the local talents from different races.</string>
+    <string name="event_description_6">The Harvest Festival (Gawai) is celebrated on a grander scale with the participations of cultural troupes from other countries.  This year our friends from Nitto Rong Organization of Bangladesh and Kumpulan Batambul Rungus Matunggong of Sabah will be joining this year’s festival. The main highlight of the World Harvest Festival (WHF) is the theme play which had received rave reviews from the media in the past. The WHF theme play utilises the lake, ethnic houses and trees as natural props which can only be produced in the Sarawak Cultural Village.</string>
+
+</resources>
